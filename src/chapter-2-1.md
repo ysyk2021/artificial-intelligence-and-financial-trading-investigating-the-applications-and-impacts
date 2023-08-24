@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial Intelligence (AI) has its roots in the early days of computing, and has since evolved to become a key area of research and development. In this chapter, we will provide an overview of the history of artificial intelligence, from its beginnings to the present day.
 

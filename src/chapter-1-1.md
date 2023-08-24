@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Financial Trading
-===================================================================================
 
 In recent years, artificial intelligence (AI) has emerged as a powerful tool for financial trading. AI technologies, such as machine learning algorithms and natural language processing tools, are being used to analyze vast amounts of data and make better-informed trading decisions.
 

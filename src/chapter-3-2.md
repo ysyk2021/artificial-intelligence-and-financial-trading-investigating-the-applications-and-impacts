@@ -1,5 +1,3 @@
-Components of Financial Trading
-=======================================================================
 
 In this book, we will explore the various applications and impacts of artificial intelligence (AI) in financial trading. Before diving into the topic, let's first understand the components of financial trading.
 

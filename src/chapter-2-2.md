@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial intelligence (AI) has become an increasingly popular tool in financial trading. In order to understand how AI is used in financial trading, it is important to have a solid understanding of the basic concepts and types of AI. In this chapter, we will explore different types of artificial intelligence.
 

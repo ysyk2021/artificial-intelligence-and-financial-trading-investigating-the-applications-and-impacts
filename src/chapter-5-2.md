@@ -1,4 +1,3 @@
-# Sentiment Analysis and News Analytics
 
 This chapter explores the applications of artificial intelligence (AI) in financial trading, specifically focusing on sentiment analysis and news analytics. AI has revolutionized these areas by enabling traders to gain insights from social media, news articles, and other textual sources, and use that information to make informed trading decisions.
 

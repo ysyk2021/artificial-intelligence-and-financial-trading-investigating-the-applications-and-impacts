@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 Artificial intelligence (AI) is transforming the field of financial trading, enabling traders to make better decisions and execute trades with greater speed and efficiency. In this chapter, we will explore the history and fundamentals of AI, including its types and machine learning techniques.
 

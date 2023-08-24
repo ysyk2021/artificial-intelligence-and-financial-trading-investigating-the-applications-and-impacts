@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Financial Trading
-==========================================
 
 AI is playing an increasingly important role in financial trading, enabling traders to make better decisions and execute trades with greater speed and efficiency. In this chapter, we will explore the benefits and challenges of AI in financial trading.
 

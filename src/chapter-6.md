@@ -1,4 +1,3 @@
-# Chapter 6: Ethical and Legal Issues Related to AI in Financial Trading
 
 The use of artificial intelligence (AI) in financial trading has brought about significant benefits, including increased efficiency and more accurate predictions. However, there are also ethical and legal concerns that must be addressed to ensure that the use of AI in financial trading is responsible and fair.
 

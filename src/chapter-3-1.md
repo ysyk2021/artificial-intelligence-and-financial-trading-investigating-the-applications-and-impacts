@@ -1,5 +1,3 @@
-Global Trends in Stock Market Trading
-=============================================================================
 
 In this book, we will explore the various applications and impacts of artificial intelligence (AI) in financial trading. Before diving into the topic, let's first understand the global trends in stock market trading.
 

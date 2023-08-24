@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Financial Trading
-=================================================================================================
 
 Artificial Intelligence (AI) is transforming the field of financial trading, offering new opportunities for automation and optimization. However, there are also a number of challenges and limitations to using AI in financial trading. In this chapter, we will explore some of these challenges and consider how they can be overcome.
 
