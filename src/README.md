@@ -6,3 +6,7 @@ This book aims to provide an overview of the role of AI in financial trading and
 Overall, this book aims to provide a comprehensive overview of the role of AI in financial trading and how it is transforming the industry. It will be of interest to traders, investors, policymakers, and anyone interested in the impact of AI on the finance industry.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
