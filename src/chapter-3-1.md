@@ -1,5 +1,4 @@
-Chapter: Global Trends in Stock Market Trading
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
